@@ -23,3 +23,16 @@
   font-style: normal;
   src: url(../fonts/opensanslight.woff) format("woff"), url(../fonts/opensanslight.woff2) format("woff2");
 }
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 1200px;
+  
+  font-family: "Open Sans Light", "Arial", sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 30px;
+  color: #464646;
+  
+  background-color: #ffffff;
+}

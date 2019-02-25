@@ -1,1 +1,25 @@
 @charset "utf-8";
+@font-face {
+  font-weight: bold;
+  font-family: "Gilroy ExtraBold";
+  font-style: normal;
+  src: url(../fonts/gilroyextrabold.woff) format("woff"), url(../fonts/gilroyextrabold.woff2) format("woff2");
+}
+@font-face {
+  font-weight: lighter;
+  font-family: "Gilroy Light";
+  font-style: normal;
+  src: url(../fonts/gilroylight.woff) format("woff"), url(../fonts/gilroylight.woff2) format("woff2");
+}
+@font-face {
+  font-weight: normal;
+  font-family: "Open Sans";
+  font-style: normal;
+  src: url(../fonts/opensans.woff) format("woff"), url(../fonts/opensans.woff2) format("woff2");
+}
+@font-face {
+  font-weight: lighter;
+  font-family: "Open Sans Light";
+  font-style: normal;
+  src: url(../fonts/opensanslight.woff) format("woff"), url(../fonts/opensanslight.woff2) format("woff2");
+}

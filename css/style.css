@@ -43,3 +43,10 @@ img {
 	width: 1160px;
 	margin: 0 auto;
 }
+.index-header {
+	min-height: 300px;
+	margin-top: 40px;
+	padding-top: 34px;
+	background-color: #f0c52e;
+	opacity: 0.5;
+}

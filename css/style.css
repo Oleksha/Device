@@ -36,3 +36,6 @@ body {
   
   background-color: #ffffff;
 }
+img {
+  max-width: 100%;
+}
